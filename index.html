@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>文字変換サイト</title>
+
+    <!-- CSSを読み込む -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1>文字変換サイト</h1>
+
+    <div class="container">
+
+        <h2>変換前</h2>
+
+        <textarea id="inputText" placeholder="ここに文章を入力してください"></textarea>
+
+        <button onclick="convertText()">変換</button>
+
+        <h2>変換後</h2>
+
+        <textarea id="outputText" readonly></textarea>
+
+    </div>
+
+    <!-- JavaScriptを読み込む -->
+    <script src="script.js"></script>
+
+</body>
+</html>
