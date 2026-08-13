@@ -350,6 +350,24 @@ const mapping = {
     "kanji": "yomi"
 };
 
+// 逆変換
+
+function reverseConvertText() {
+
+    const input =
+        document.getElementById("inputText").value;
+
+
+    const result = [...input].map(function(char) {
+
+        return reverseMapping[char] ?? char;
+
+    }).join("");
+
+
+    document.getElementById("outputText").value = result;
+}
+
 
 // 変換する関数
 function convertText() {
