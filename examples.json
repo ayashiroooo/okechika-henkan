@@ -1,0 +1,669 @@
+{
+    "侚": {
+        "translation": "越?",
+        "examples": [
+            "お越し"
+        ],
+        "sources": [
+            "にく屋"
+        ]
+    },
+    "仫": {
+        "translation": "色?",
+        "examples": [
+            "色んな"
+        ],
+        "sources": [
+            "さかな屋"
+        ]
+    },
+    "兎": {
+        "translation": "広?",
+        "examples": [
+            "はば広い"
+        ],
+        "sources": [
+            "くつ屋"
+        ]
+    },
+    "冦": {
+        "translation": "扱?",
+        "examples": [
+            "扱う"
+        ],
+        "sources": [
+            "沿革？",
+            "本屋"
+        ]
+    },
+    "儛": {
+        "translation": "入?",
+        "examples": [
+            "おきに入り"
+        ],
+        "sources": [
+            "ほーむ",
+            "本屋"
+        ]
+    },
+    "倯": {
+        "translation": "歩?",
+        "examples": [
+            "歩きまわる"
+        ],
+        "sources": [
+            "ほーむ"
+        ]
+    },
+    "凗": {
+        "translation": "過?",
+        "examples": [
+            "過ごせる"
+        ],
+        "sources": [
+            "ほーむ"
+        ]
+    },
+    "勿": {
+        "translation": "次?",
+        "examples": [
+            "相次いで"
+        ],
+        "sources": [
+            "地しんのお知らせ"
+        ]
+    },
+    "假": {
+        "translation": "客?",
+        "examples": [
+            "お客様"
+        ],
+        "sources": [
+            "ほーむ",
+            "清そう屋",
+            "うんそう屋"
+        ]
+    },
+    "侂": {
+        "translation": "様?",
+        "examples": [
+            "お客様"
+        ],
+        "sources": [
+            "ほーむ",
+            "清そう屋",
+            "うんそう屋"
+        ]
+    },
+    "勵": {
+        "translation": "限?",
+        "examples": [
+            "限定"
+        ],
+        "sources": [
+            "いべんとのお知らせ"
+        ]
+    },
+    "传": {
+        "translation": "早?",
+        "examples": [
+            "早いし上げ"
+        ],
+        "sources": [
+            "くりーにんぐ屋"
+        ]
+    },
+    "仑": {
+        "translation": "異?",
+        "examples": [
+            "異なります"
+        ],
+        "sources": [
+            "いべんとのお知らせ",
+            "ろう"
+        ]
+    },
+    "仩": {
+        "translation": "親?",
+        "examples": [
+            "親しまれて"
+        ],
+        "sources": [
+            "常明像/王？"
+        ]
+    },
+    "下": {
+        "translation": "確?",
+        "examples": [
+            "ご確にん"
+        ],
+        "sources": [
+            "地下街について"
+        ]
+    },
+    "劉": {
+        "translation": "報?",
+        "examples": [
+            "ご報こく/情報"
+        ],
+        "sources": [
+            "地しんのお知らせ",
+            "沿革？"
+        ]
+    },
+    "了": {
+        "translation": "急?",
+        "examples": [
+            "お急ぎ"
+        ],
+        "sources": [
+            "うどん屋"
+        ]
+    },
+    "冞": {
+        "translation": "息?",
+        "examples": [
+            "ひと息"
+        ],
+        "sources": [
+            "休けい所"
+        ]
+    },
+    "伊": {
+        "translation": "導?",
+        "examples": [
+            "導く"
+        ],
+        "sources": [
+            "うらない屋"
+        ]
+    },
+    "亷": {
+        "translation": "音?",
+        "examples": [
+            "りずむと音"
+        ],
+        "sources": [
+            "じゃずばー"
+        ]
+    },
+    "剠": {
+        "translation": "決?",
+        "examples": [],
+        "sources": []
+    },
+    "乻": {
+        "translation": "変?",
+        "examples": [
+            "変わります"
+        ],
+        "sources": [
+            "にく屋"
+        ]
+    },
+    "刌": {
+        "translation": "以?",
+        "examples": [
+            "以ぜん"
+        ],
+        "sources": [
+            "祭だん"
+        ]
+    },
+    "偬": {
+        "translation": "価?",
+        "examples": [
+            "価かく"
+        ],
+        "sources": [
+            "時けい屋",
+            "くりーにんぐ屋"
+        ]
+    },
+    "僤": {
+        "translation": "寄?",
+        "examples": [
+            "おたち寄り"
+        ],
+        "sources": [
+            "くすり屋"
+        ]
+    },
+    "偮": {
+        "translation": "求?",
+        "examples": [
+            "お求めやすい"
+        ],
+        "sources": [
+            "時けい屋"
+        ]
+    },
+    "俞": {
+        "translation": "感?",
+        "examples": [
+            "感じた"
+        ],
+        "sources": [
+            "地しんのお知らせ"
+        ]
+    },
+    "創": {
+        "translation": "際?",
+        "examples": [
+            "ご来場の際"
+        ],
+        "sources": [
+            "無影言本祭のお知らせ"
+        ]
+    },
+    "儏": {
+        "translation": "関/携?",
+        "examples": [
+            "関/携わる"
+        ],
+        "sources": [
+            "無影言本祭のお知らせ"
+        ]
+    },
+    "劈": {
+        "translation": "情?",
+        "examples": [
+            "情報"
+        ],
+        "sources": [
+            "沿革？"
+        ]
+    },
+    "剼": {
+        "translation": "集?",
+        "examples": [
+            "集めた"
+        ],
+        "sources": [
+            "沿革？"
+        ]
+    },
+    "倽": {
+        "translation": "対?",
+        "examples": [
+            "対おう"
+        ],
+        "sources": [
+            "沿革？"
+        ]
+    },
+    "偊": {
+        "translation": "重?",
+        "examples": [
+            "重ね"
+        ],
+        "sources": [
+            "地下街について"
+        ]
+    },
+    "仂": {
+        "translation": "消?",
+        "examples": [
+            "照明を消し"
+        ],
+        "sources": [
+            "無影言本祭のお知らせ"
+        ]
+    },
+    "剺": {
+        "translation": "印?",
+        "examples": [
+            "目印"
+        ],
+        "sources": [
+            "無影言本祭のお知らせ"
+        ]
+    },
+    "侁": {
+        "translation": "止?",
+        "examples": [],
+        "sources": []
+    },
+    "匤": {
+        "translation": "再?",
+        "examples": [
+            "再へん"
+        ],
+        "sources": [
+            "沿革？"
+        ]
+    },
+    "俳": {
+        "translation": "塞?",
+        "examples": [
+            "塞ぐ"
+        ],
+        "sources": [
+            "●壁？"
+        ]
+    },
+    "佬": {
+        "translation": "壁?",
+        "examples": [
+            "壁"
+        ],
+        "sources": [
+            "●壁？"
+        ]
+    },
+    "书": {
+        "translation": "未?",
+        "examples": [
+            "未来"
+        ],
+        "sources": [
+            "うらない屋"
+        ]
+    },
+    "勢": {
+        "translation": "兆?",
+        "examples": [
+            "兆し"
+        ],
+        "sources": [
+            "地しんのお知らせ",
+            "○われ？"
+        ]
+    },
+    "倄": {
+        "translation": "沿?",
+        "examples": [
+            "沿革"
+        ],
+        "sources": [
+            "沿革？"
+        ]
+    },
+    "乼": {
+        "translation": "革?",
+        "examples": [
+            "沿革"
+        ],
+        "sources": [
+            "沿革？"
+        ]
+    },
+    "七": {
+        "translation": "書?",
+        "examples": [],
+        "sources": []
+    },
+    "专": {
+        "translation": "延?",
+        "examples": [],
+        "sources": []
+    },
+    "亡": {
+        "translation": "満?",
+        "examples": [
+            "満たされた合ず"
+        ],
+        "sources": [
+            "○われ？"
+        ]
+    },
+    "卋": {
+        "translation": "像/王?",
+        "examples": [
+            "常明王など"
+        ],
+        "sources": [
+            "常明像/王？"
+        ]
+    },
+    "兊": {
+        "translation": "果?",
+        "examples": [],
+        "sources": []
+    },
+    "剸": {
+        "translation": "文?",
+        "examples": [
+            "文化"
+        ],
+        "sources": [
+            "沿革？"
+        ]
+    },
+    "凾": {
+        "translation": "交?",
+        "examples": [
+            "交流の場"
+        ],
+        "sources": [
+            "ほーむ"
+        ]
+    },
+    "剑": {
+        "translation": "流?",
+        "examples": [
+            "交流の場"
+        ],
+        "sources": [
+            "ほーむ"
+        ]
+    },
+    "五": {
+        "translation": "四?",
+        "examples": [
+            "第四区"
+        ],
+        "sources": [
+            "第四区封さのお知らせ"
+        ]
+    },
+    "亘": {
+        "translation": "腹?",
+        "examples": [
+            "腹が満たされた"
+        ],
+        "sources": [
+            "○われ？"
+        ]
+    },
+    "亾": {
+        "translation": "防?",
+        "examples": [
+            "防人"
+        ],
+        "sources": [
+            "第一区は出所",
+            "防人？"
+        ]
+    },
+    "仮": {
+        "translation": "飾?",
+        "examples": [
+            "飾ります"
+        ],
+        "sources": [
+            "化しょう屋"
+        ]
+    },
+    "冹": {
+        "translation": "苦?",
+        "examples": [
+            "苦味"
+        ],
+        "sources": [
+            "きっさ屋"
+        ]
+    },
+    "乆": {
+        "translation": "深?",
+        "examples": [
+            "深め"
+        ],
+        "sources": [
+            "きっさ屋"
+        ]
+    },
+    "凄": {
+        "translation": "房?",
+        "examples": [
+            "影封房"
+        ],
+        "sources": [
+            "影封房？"
+        ]
+    },
+    "准": {
+        "translation": "隔?",
+        "examples": [
+            "隔離するための場所"
+        ],
+        "sources": [
+            "影封房？"
+        ]
+    },
+    "凇": {
+        "translation": "離?",
+        "examples": [
+            "隔離するための場所"
+        ],
+        "sources": [
+            "影封房？"
+        ]
+    },
+    "別": {
+        "translation": "捌?",
+        "examples": [
+            "影捌けの舞"
+        ],
+        "sources": [
+            "なき子"
+        ]
+    },
+    "亵": {
+        "translation": "斬?",
+        "examples": [
+            "斬首などのつぐない"
+        ],
+        "sources": [
+            "影封房？"
+        ]
+    },
+    "刻": {
+        "translation": "首?",
+        "examples": [
+            "斬首などのつぐない"
+        ],
+        "sources": [
+            "影封房？"
+        ]
+    },
+    "勻": {
+        "translation": "守?",
+        "examples": [
+            "守られていない"
+        ],
+        "sources": [
+            "掟に関するお知らせ",
+            "噴水？"
+        ]
+    },
+    "匙": {
+        "translation": "散?",
+        "examples": [
+            "散見"
+        ],
+        "sources": [
+            "掟に関するお知らせ"
+        ]
+    },
+    "冟": {
+        "translation": "づ/付?",
+        "examples": [
+            "ちか付く"
+        ],
+        "sources": [
+            "掟に関するお知らせ",
+            "噴水？"
+        ]
+    },
+    "僚": {
+        "translation": "同?",
+        "examples": [],
+        "sources": []
+    },
+    "劚": {
+        "translation": "正?",
+        "examples": [
+            "正しく行どう"
+        ],
+        "sources": [
+            "掟に関するお知らせ"
+        ]
+    },
+    "俚": {
+        "translation": "噴?",
+        "examples": [
+            "噴水（ランドマーク）"
+        ],
+        "sources": [
+            "掟に関するお知らせ",
+            "噴水？"
+        ]
+    },
+    "介": {
+        "translation": "水?",
+        "examples": [
+            "噴水（ランドマーク）"
+        ],
+        "sources": [
+            "掟に関するお知らせ",
+            "噴水？"
+        ]
+    },
+    "勀": {
+        "translation": "♦?",
+        "examples": [
+            "♦客"
+        ],
+        "sources": [
+            "さい場"
+        ]
+    },
+    "倂": {
+        "translation": "○?",
+        "examples": [
+            "○われ"
+        ],
+        "sources": [
+            "地しんのお知らせ",
+            "○われ？"
+        ]
+    },
+    "匰": {
+        "translation": "□?",
+        "examples": [
+            "□■せーる"
+        ],
+        "sources": [
+            "沿革？"
+        ]
+    },
+    "儽": {
+        "translation": "■?",
+        "examples": [
+            "□■せーる"
+        ],
+        "sources": [
+            "沿革？"
+        ]
+    },
+    "凘": {
+        "translation": "♢?",
+        "examples": [
+            "過♢"
+        ],
+        "sources": [
+            "掟に関するお知らせ"
+        ]
+    }
+}
