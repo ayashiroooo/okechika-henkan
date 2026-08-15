@@ -5,7 +5,8 @@
             "お越し"
         ],
         "sources": [
-            "にく屋"
+            "にく屋",
+            "ほーむ"
         ]
     },
     "仫": {
@@ -107,10 +108,11 @@
     "传": {
         "translation": "早?",
         "examples": [
-            "早いし上げ"
+            "早いし上げ/お早めに"
         ],
         "sources": [
-            "くりーにんぐ屋"
+            "くりーにんぐ屋",
+            "いべんとのお知らせ"
         ]
     },
     "仑": {
@@ -129,7 +131,8 @@
             "親しまれて"
         ],
         "sources": [
-            "常明像/王？"
+            "常明像/王？",
+            "ほーむ"
         ]
     },
     "下": {
@@ -189,8 +192,12 @@
     },
     "剠": {
         "translation": "決?",
-        "examples": [],
-        "sources": []
+        "examples": [
+            "決まります"
+        ],
+        "sources": [
+            "さかな屋"
+        ]
     },
     "乻": {
         "translation": "変?",
@@ -390,12 +397,16 @@
     },
     "七": {
         "translation": "書?",
-        "examples": [],
+        "examples": [
+            "unicode文より"
+        ],
         "sources": []
     },
     "专": {
         "translation": "延?",
-        "examples": [],
+        "examples": [
+            "unicode文より"
+        ],
         "sources": []
     },
     "亡": {
@@ -418,7 +429,9 @@
     },
     "兊": {
         "translation": "果?",
-        "examples": [],
+        "examples": [
+            "けんさくけっ果"
+        ],
         "sources": []
     },
     "剸": {
@@ -588,8 +601,12 @@
     },
     "僚": {
         "translation": "同?",
-        "examples": [],
-        "sources": []
+        "examples": [
+            "同時に"
+        ],
+        "sources": [
+            "噴水？"
+        ]
     },
     "劚": {
         "translation": "正?",
@@ -603,7 +620,7 @@
     "俚": {
         "translation": "噴?",
         "examples": [
-            "噴水（ランドマーク）"
+            "噴水"
         ],
         "sources": [
             "掟に関するお知らせ",
@@ -613,7 +630,7 @@
     "介": {
         "translation": "水?",
         "examples": [
-            "噴水（ランドマーク）"
+            "噴水"
         ],
         "sources": [
             "掟に関するお知らせ",
@@ -664,6 +681,24 @@
         ],
         "sources": [
             "掟に関するお知らせ"
+        ]
+    },
+    "佁": {
+        "translation": "●?",
+        "examples": [
+            "●壁"
+        ],
+        "sources": [
+            "●壁？"
+        ]
+    },
+    "傎": {
+        "translation": "γ?",
+        "examples": [
+            "γにあった"
+        ],
+        "sources": [
+            "●壁？"
         ]
     }
 }
