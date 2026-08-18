@@ -458,9 +458,9 @@
         ]
     },
     "亘": {
-        "translation": "腹?",
+        "translation": "亘??",
         "examples": [
-            "腹が満たされた"
+            "亘が満たされた"
         ],
         "sources": [
             "倂われ？"
@@ -689,6 +689,15 @@
         ],
         "sources": [
             "佁壁？"
+        ]
+    },
+    "伭": {
+        "translation": "伭??",
+        "examples": [
+            "伭名像/王？"
+        ],
+        "sources": [
+            "伭名像/王？"
         ]
     }
 }
