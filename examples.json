@@ -19,16 +19,6 @@
             "さかな屋"
         ]
     },
-    "兎": {
-        "translation": "広?",
-        "examples": [
-            "はば広い ・広場"
-        ],
-        "sources": [
-            "くつ屋",
-            "第1区"
-        ]
-    },
     "冦": {
         "translation": "扱?",
         "examples": [
@@ -500,9 +490,9 @@
         ]
     },
     "別": {
-        "translation": "捌?",
+        "translation": "避?",
         "examples": [
-            "影捌けの舞 ・捌侱所？"
+            "影避けの舞 ・避侱所？"
         ],
         "sources": [
             "なき子",
@@ -710,9 +700,9 @@
         ]
     },
     "侱": {
-        "translation": "[侱]?",
+        "translation": "難?",
         "examples": [
-            "捌侱所？"
+            "避難所？"
         ],
         "sources": [
             "第5区"
