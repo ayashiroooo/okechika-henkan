@@ -237,15 +237,6 @@
         "examples": [],
         "sources": []
     },
-    "匤": {
-        "translation": "再?",
-        "examples": [
-            "再へん"
-        ],
-        "sources": [
-            "沿革？"
-        ]
-    },
     "俳": {
         "translation": "塞?",
         "examples": [
@@ -686,5 +677,28 @@
         "sources": [
             "さか屋"
         ]
+    },
+    "儷": {
+        "translation": "除?",
+        "examples": [
+            "さく除されたか"
+        ],
+        "sources": [
+            "エラーページ"
+        ]
+    },
+    "丠": {
+        "translation": "継?",
+        "examples": [
+            "unicode文より"
+        ],
+        "sources": []
+    },
+    "业": {
+        "translation": "葉?",
+        "examples": [
+            "unicode文より"
+        ],
+        "sources": []
     }
 }
