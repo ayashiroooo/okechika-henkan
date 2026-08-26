@@ -407,9 +407,9 @@
         ]
     },
     "乆": {
-        "translation": "深?",
+        "translation": "強?",
         "examples": [
-            "深め"
+            "苦味？が強め"
         ],
         "sources": [
             "きっさ屋"
@@ -713,12 +713,79 @@
     },
     "卜": {
         "translation": "淑?",
-        "examples": [],
+        "examples": [
+            "淑気満つ？"
+        ],
         "sources": []
     },
     "丸": {
         "translation": "気?",
-        "examples": [],
+        "examples": [
+            "淑気満つ？"
+        ],
         "sources": []
+    },
+    "勼": {
+        "translation": "護?",
+        "examples": [
+            "守護神？"
+        ],
+        "sources": [
+            "恐喝屋？"
+        ]
+    },
+    "勽": {
+        "translation": "神?",
+        "examples": [
+            "守護神？"
+        ],
+        "sources": [
+            "恐喝屋？"
+        ]
+    },
+    "儴": {
+        "translation": "喝?",
+        "examples": [
+            "恐喝屋？"
+        ],
+        "sources": [
+            "恐喝屋？"
+        ]
+    },
+    "凲": {
+        "translation": "[凲]?",
+        "examples": [
+            "我々の上に立つ凲兀"
+        ],
+        "sources": [
+            "恐喝屋？"
+        ]
+    },
+    "兀": {
+        "translation": "[兀]?",
+        "examples": [
+            "我々の上に立つ凲兀"
+        ],
+        "sources": [
+            "恐喝屋？"
+        ]
+    },
+    "伫": {
+        "translation": "[伫]?",
+        "examples": [
+            "守護神？が伫なら恐喝屋？は侀伫だ"
+        ],
+        "sources": [
+            "恐喝屋？"
+        ]
+    },
+    "侀": {
+        "translation": "[侀]?",
+        "examples": [
+            "守護神？が伫なら恐喝屋？は侀伫だ"
+        ],
+        "sources": [
+            "恐喝屋？"
+        ]
     }
 }
