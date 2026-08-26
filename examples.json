@@ -306,16 +306,20 @@
     "七": {
         "translation": "書?",
         "examples": [
-            "unicode文より"
+            "書き記すは"
         ],
-        "sources": []
+        "sources": [
+            "unicode文"
+        ]
     },
     "专": {
         "translation": "延?",
         "examples": [
-            "unicode文より"
+            "生き延びるため"
         ],
-        "sources": []
+        "sources": [
+            "unicode文"
+        ]
     },
     "卋": {
         "translation": "像/王?",
@@ -562,10 +566,11 @@
     "勀": {
         "translation": "遷?",
         "examples": [
-            "遷客 ・遷化(unicode)"
+            "遷客 ・遷化"
         ],
         "sources": [
-            "さい場"
+            "さい場",
+            "unicode文"
         ]
     },
     "倂": {
@@ -700,16 +705,20 @@
     "丠": {
         "translation": "継?",
         "examples": [
-            "unicode文より"
+            "受け継がれし"
         ],
-        "sources": []
+        "sources": [
+            "unicode文"
+        ]
     },
     "业": {
         "translation": "葉?",
         "examples": [
-            "unicode文より"
+            "言葉"
         ],
-        "sources": []
+        "sources": [
+            "unicode文"
+        ]
     },
     "卜": {
         "translation": "淑?",
@@ -755,19 +764,20 @@
     "凲": {
         "translation": "[凲]?",
         "examples": [
-            "我々の上に立つ凲兀"
+            "我々の上に立つ凲在"
         ],
         "sources": [
             "恐喝屋？"
         ]
     },
     "兀": {
-        "translation": "[兀]?",
+        "translation": "在?",
         "examples": [
-            "我々の上に立つ凲兀"
+            "我々の上に立つ凲在 ・区別が存在"
         ],
         "sources": [
-            "恐喝屋？"
+            "恐喝屋？",
+            "unicode文"
         ]
     },
     "伫": {
@@ -786,6 +796,15 @@
         ],
         "sources": [
             "恐喝屋？"
+        ]
+    },
+    "兇": {
+        "translation": "繋?",
+        "examples": [
+            "よりふかい繋がり"
+        ],
+        "sources": [
+            "介みず"
         ]
     }
 }
