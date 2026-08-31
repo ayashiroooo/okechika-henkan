@@ -132,7 +132,10 @@ def main():
         #
         # =================================
 
-        if not after.endswith("?"):
+        if not (
+            after.endswith("?")
+            or after.endswith("]")
+        ):
             continue
 
 
