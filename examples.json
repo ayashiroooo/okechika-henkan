@@ -444,16 +444,6 @@
             "第5区"
         ]
     },
-    "亵": {
-        "translation": "斬?",
-        "examples": [
-            "斬首などのつぐない"
-        ],
-        "sources": [
-            "影封房？",
-            "無影言本祭について"
-        ]
-    },
     "刻": {
         "translation": "首?",
         "examples": [
@@ -709,29 +699,6 @@
             "unicode文"
         ]
     },
-    "卜": {
-        "translation": "淑?",
-        "examples": [
-            "淑気満つ？"
-        ],
-        "sources": []
-    },
-    "丸": {
-        "translation": "気?",
-        "examples": [
-            "淑気満つ？"
-        ],
-        "sources": []
-    },
-    "儿": {
-        "translation": "存?",
-        "examples": [
-            "地下街文(?)化保存かい"
-        ],
-        "sources": [
-            "フッター"
-        ]
-    },
     "勼": {
         "translation": "護?",
         "examples": [
@@ -757,25 +724,6 @@
         ],
         "sources": [
             "恐喝屋？"
-        ]
-    },
-    "凲": {
-        "translation": "[凲]?",
-        "examples": [
-            "我々の上に立つ凲在"
-        ],
-        "sources": [
-            "恐喝屋？"
-        ]
-    },
-    "兀": {
-        "translation": "在?",
-        "examples": [
-            "我々の上に立つ凲在 ・区別が存在"
-        ],
-        "sources": [
-            "恐喝屋？",
-            "unicode文"
         ]
     },
     "伫": {
@@ -806,7 +754,7 @@
         ]
     },
     "侐": {
-        "translation": "[侐]?",
+        "translation": "黒?",
         "examples": [
             "侐色としろ色のマーク"
         ],
